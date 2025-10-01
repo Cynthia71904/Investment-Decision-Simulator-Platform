@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 🖥️ Usage
 
-·Open the following webpage to experience：http://localhost:8501
+·Open the following webpage to experience：http://localhost:8502
 
 
 ·Or try the following:
