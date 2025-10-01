@@ -1,4 +1,4 @@
-# Investment Decision Simulator Platform
+# 💴 Investment Decision Simulator Platform
 
 # 🚀 Project Overview
 
