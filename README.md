@@ -74,6 +74,11 @@ pip install -r requirements.txt
 
 🖥️ Usage
 
+·Open the following webpage to experience：http://localhost:8501
+
+
+·Or try the following:
+
 Run the simulation backend
 
 python backend/simulation.py
