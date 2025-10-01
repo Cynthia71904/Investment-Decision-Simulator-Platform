@@ -1,10 +1,10 @@
-Investment Decision Simulator Platform
+# Investment Decision Simulator Platform
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 The Investment Decision Simulator Platform is a Python-based tool designed to help users simulate and analyze investment strategies. It allows users to make investment decisions, evaluate outcomes, and understand the effects of different financial strategies in a controlled, interactive environment. The platform combines data analysis, simulation models, and a user-friendly interface to support learning and experimentation in investment decision-making.
 
-💡 Key Features
+# 💡 Key Features
 
 Interactive Simulation: Users can simulate different investment scenarios and visualize outcomes.
 
@@ -16,7 +16,7 @@ Extensible Architecture: Easily add new models, investment strategies, or visual
 
 Cross-Platform Compatibility: Runs on Windows, macOS, and Linux.
 
-🗂️ Project Structure
+# 🗂️ Project Structure
 
 Investment-Decision-Simulator-Platform/
 
@@ -53,7 +53,7 @@ Investment-Decision-Simulator-Platform/
 
 
 
-⚡ Installation
+# ⚡ Installation
 
 Clone the repository
 
@@ -72,7 +72,7 @@ Install dependencies
 
 pip install -r requirements.txt
 
-🖥️ Usage
+# 🖥️ Usage
 
 ·Open the following webpage to experience：http://localhost:8502
 
@@ -92,7 +92,7 @@ Optional: Run analysis notebook
 
 jupyter notebook notebooks/analysis.ipynb
 
-📈 Example
+# 📈 Example
 
 Load a sample dataset:
 
@@ -101,17 +101,7 @@ sim = Simulator("data/sample_investments.csv")
 sim.run_strategy("balanced_portfolio")
 sim.visualize_results()
 
-🛠️ Future Enhancements
-
-Add AI-based investment decision recommendations.
-
-Include more financial metrics and risk simulations.
-
-Integrate with real-time stock market APIs.
-
-Build a web-based dashboard for easier user interaction.
-
-📄 License
+# 📄 License
 
 This project is licensed under the MIT License. See the LICENSE
  file for details.
